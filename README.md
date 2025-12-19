@@ -20,4 +20,5 @@ Library: requests (for API calls)
 
 GUI Framework: PyQt5 (or Tkinter, depending on what you used)
 
-API: OpenWeatherMap API
+API URL: f"https://api.openweathermap.org/data/2.5/weather?q={____}&appid={______}"
+
